@@ -1,0 +1,50 @@
+{
+  "alunos": [
+    {
+      "nome": "Luciano Hulk",
+      "endereço": "Jardim Maravilha",
+      "bairro": "Guaratiba",
+      "cidade": "Rio de Janeiro",
+      "email": "hulkzinho@gmail.com",
+      "id_curso": 1,
+      "id": 1
+    },
+    {
+      "nome": "Luciano Hulk",
+      "endereço": "Jardim Maravilha",
+      "bairro": "Guaratiba",
+      "cidade": "Rio de Janeiro",
+      "email": "hulkzinho@gmail.com",
+      "id_curso": 1,
+      "id": 2
+    },
+    {
+      "nome": "Luciano Hulk",
+      "endereço": "Jardim Maravilha",
+      "bairro": "Guaratiba",
+      "cidade": "Rio de Janeiro",
+      "email": "hulkzinho@gmail.com",
+      "id_curso": 1,
+      "id": 3
+    },
+    {
+      "nome": "Luciano Hulk",
+      "endereço": "Jardim Maravilha",
+      "bairro": "Guaratiba",
+      "cidade": "Rio de Janeiro",
+      "email": "hulkzinho@gmail.com",
+      "id_curso": 1,
+      "id": 4
+    }
+  ],
+  "cursos": [
+    {
+      "nome": "Técnico em Informatica",
+      "id": 1
+    },
+    {
+      "nome": " Programadores Cariocas",
+      "id": 2
+    }
+  ]
+}
