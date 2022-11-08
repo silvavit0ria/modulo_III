@@ -1,0 +1,24 @@
+{
+    "produtos":[
+        {
+            "linha":"Skin Care",
+            "id":1
+      
+        },
+
+        {
+            "linha":"creme baboza",
+            "id":2
+        },
+        {
+            "linha":"gummy",
+            "id":3
+        },
+        {
+            "linha":"clareador",
+            "id":4
+        }
+
+    ]
+}
+
